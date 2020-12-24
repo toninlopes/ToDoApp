@@ -1,0 +1,3 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Snapshot Tasks Page Renders Tasks correctly 1`] = `ShallowWrapper {}`;
